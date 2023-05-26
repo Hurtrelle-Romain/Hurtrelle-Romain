@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there ! 👋
+Welcome to my page ! I'm Romain , a mobile developer from Valenciennes, France :flag_france:
+
 
 <!--
 **Hurtrelle-Romain/Hurtrelle-Romain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
