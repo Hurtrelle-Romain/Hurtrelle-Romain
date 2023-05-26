@@ -1,5 +1,5 @@
 ### Hello there ! 👋
-Welcome to my page ! I'm Romain , a mobile developer from Valenciennes, France :flag_france:
+Welcome to my page ! I'm Romain , a mobile developer from Valenciennes, France ![image](https://github.com/Hurtrelle-Romain/Hurtrelle-Romain/assets/95279857/4865f95f-27c6-4b65-9cd1-294b55bb3a79)
 
 
 <!--
